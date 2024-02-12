@@ -23,7 +23,7 @@ output: C:\Users\userName\Documents\PowerShell\Microsoft.PowerShell_profile.ps1
 example: user on computer: nmvarinder
          1. go to user directory 
                 c:\users\nmvarinder
-         2. moving .config(github directory) into this(nmvarinder) user directory       
+         2. moving .config/powershell(github directory) into this(nmvarinder) user directory       
 ```
 
 ### who am i
