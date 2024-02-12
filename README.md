@@ -25,5 +25,8 @@ example: user on computer: nmvarinder
          2. moving .config/powershell(github directory) into this(nmvarinder) user directory       
 ```
 
+### Terminal Screenshot
+![App Screenshot](https://ohmyposh.dev/assets/images/clean-detailed-2f0ea31c2d0c9c9b695975ce511f975d.png)
+
 ### who am i
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nmvarinder) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nmvarinder) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nmvarinder)     
