@@ -5,6 +5,7 @@ PowerShell + Terminal -> window 10 or window 11
 ### Basic setup: download and install
 1. [Powershell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4)
 2. [Terminal](https://github.com/microsoft/terminal)
+3. [Ohmyposh](https://ohmyposh.dev/)
 
 
 ### Actual setup
