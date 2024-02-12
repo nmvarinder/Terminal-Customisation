@@ -17,7 +17,7 @@ output: C:\Users\userName\Documents\PowerShell\Microsoft.PowerShell_profile.ps1
 2. Move Powershell(Github directory) into computer Document directory
        
 3. Now, on system-user profile
-          *move: .config(attached directory) to system-users directory        
+   * move: .config(attached directory) to system-users directory        
 ```javascript
 example: user on computer: nmvarinder
          1. go to user directory 
